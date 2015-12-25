@@ -2,6 +2,10 @@
 apple pay receipt verify tools
 
 
+##install##
+1. curl
+2. bash
+
 
 ##usage##
 ```
